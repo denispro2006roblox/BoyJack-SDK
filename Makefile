@@ -1,6 +1,6 @@
 CXX = g++
 CXXFLAGS = -std=c++11 -Wall
-LDFLAGS = 
+LDFLAGS = -Llibs -lBoyJackLib  # Подключаем статическую библиотеку BoyJackLib.a
 
 SRC = src/main.cpp src/Game.cpp
 OBJ = $(SRC:.cpp=.o)
