@@ -8,7 +8,7 @@ BoyJack Games — это проект, разработанный на осно�
 git clone https://github.com/denispro2006roblox/BoyJack-Games.git
 
 2. Сборка проекта:
-make ..
+make
 
 ## Форматы файлов
 
