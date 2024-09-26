@@ -1,0 +1,16 @@
+{
+    "level": 1,
+    "name": "Start Level",
+    "objects": [
+        {
+            "id": "player",
+            "type": "character",
+            "position": [100, 200]
+        },
+        {
+            "id": "enemy1",
+            "type": "npc",
+            "position": [300, 400]
+        }
+    ]
+}
