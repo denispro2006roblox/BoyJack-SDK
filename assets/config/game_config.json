@@ -1,0 +1,9 @@
+{
+    "gameTitle": "BoyJack Adventure",
+    "resolution": {
+        "width": 1280,
+        "height": 720
+    },
+    "fullscreen": false,
+    "soundVolume": 0.8
+}
